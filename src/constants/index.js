@@ -243,28 +243,7 @@ import {
       ],
       image: CryptoMart,
       source_code_link: "https://cryptoomartt.netlify.app/",
-    },
-    {
-      name: "ShopNest",
-      description:
-        "It is an E-commerce website that allow user to buy various products,placer order and do payment",
-      tags: [
-        {
-          name: "nodejs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongoDB",
-          color: "green-text-gradient",
-        },
-        {
-          name: "ejs",
-          color: "pink-text-gradient",
-        },
-      ],
-      image:ShopNest,
-      source_code_link: "https://github.com/avinash-2912/shopNest",
-    },
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
