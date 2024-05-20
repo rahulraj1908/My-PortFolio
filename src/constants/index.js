@@ -221,7 +221,7 @@ import {
         },
       ],
       image: Imaginify,
-      source_code_link: "https://github.com/avinash-2912/Imaginify",
+      source_code_link: "https://github.com/rahulraj1908/Imaginify",
     },
     {
       name: "CryptoMart",
